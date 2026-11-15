@@ -1,3 +1,7 @@
-# Wake — documentos legais
+# Wake — site
 
-Política de privacidade do app Wake para iPhone, publicada em https://rafael-figueredo.github.io/wake-legal/
+Site do app Wake para iPhone, publicado em https://rafael-figueredo.github.io/wake-legal/
+
+- `/` e `/en/` — página do app (português e inglês)
+- `/privacidade/` e `/en/privacy/` — política de privacidade
+- `/suporte/` — suporte (português e inglês)
